@@ -1,0 +1,111 @@
+
+
+.karusel{
+    padding: 0 3%;
+    margin-bottom: 100px;
+}
+.F-Title1{
+    font-family: "Roboto", sans-serif;
+    font-size: 33px;
+    font-weight: 400;
+    line-height: 36px;
+    text-align: center;
+    color: #000000;
+}
+.F-Title2{
+    font-family: "Roboto", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 18px;
+    letter-spacing: 1px;
+    text-align: center;
+    color: #A0A0A0;
+    margin-bottom: 80px;
+}
+
+.swiper-pagination-bullet{
+    border-radius: 0!important;
+    opacity: 1!important;
+    position: relative;
+    top: 10px;
+    z-index: 1000!important;
+}
+.mini_img{
+    width: 100%;
+    height: max-content;
+    margin-bottom: 20px;
+}
+.mini_card_text1{
+    font-family: "Roboto", sans-serif;
+    font-size: 13px;
+    font-weight: 600;
+    line-height: 21px;
+    letter-spacing: 1px;
+    color: #A0A0A0;
+    margin-bottom: 0;
+}
+.mini_card_text2{
+    font-family: "Roboto", sans-serif;
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 21px;
+    letter-spacing: 1px;
+    color: #A0A0A0;
+}
+
+.background-img{
+    width: 100%;
+    height: 504px;
+    background: url("../img/Rectangle (14).png") no-repeat center;
+    background-size: cover;
+    padding-top: 170px;
+    text-align: center;
+}
+.F-Title3{
+    font-family: "Roboto", sans-serif;
+    font-size: 66px;
+    font-weight: 400;
+    line-height: 70px;
+    text-align: center;
+    color: #ffffff;
+}
+.F-Text1{
+    font-family: "Roboto", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 17px;
+    letter-spacing: 1px;
+    color: #ffffff;
+    margin-bottom: 30px;
+}
+.F-Btn-Link{
+    font-family: "Roboto", sans-serif;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 16px;
+    letter-spacing: 1px;
+    text-align: center;
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.F-Title4{
+    font-family: "Roboto", sans-serif;
+    font-size: 34px;
+    font-weight: 400;
+    line-height: 36px;
+    text-align: center;
+    color: #000000;
+    margin-top: 120px;
+}
+.F-Text2{
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 1px;
+    text-align: center;
+    color: #A0A0A0;
+    margin: 20px auto;
+    width: 780px;
+}
